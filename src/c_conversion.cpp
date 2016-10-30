@@ -18,7 +18,7 @@ const int  N = 40;
 using namespace std;
 
 // Function sums the elements in a vector
-void sum(int& p, int n, vector<int> d)
+inline void sum(int& p, int n, vector<int> d)
 
 {
 
