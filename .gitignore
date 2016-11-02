@@ -40,3 +40,9 @@ bin/
 
 # Library directory
 lib/
+
+# Misc CMake Files and Dirs
+CMakeCache.txt
+CMakeFiles
+Makefile
+*.cmake
