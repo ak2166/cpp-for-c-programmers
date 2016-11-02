@@ -19,7 +19,7 @@ class Graph{
         int cost;
         int destinationVertex;
         //In this case need to provide a way to sort for the priority queue
-        bool operator<(const edge& rhs) const;
+        bool operator<(const edge& rhs);
         //{
         //    return cost < other.cost;
         //} 
